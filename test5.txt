@@ -1,0 +1,3 @@
+2023-07-08 21:02:39,098 root INFO This is my info log
+2023-07-08 21:02:39,098 root ERROR This is my error message
+2023-07-08 21:02:39,099 root CRITICAL This is my critical message
