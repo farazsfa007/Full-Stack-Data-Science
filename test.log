@@ -1,0 +1,34 @@
+INFO:root:this is my new loging concept which is so cool
+INFO:root:this is my project
+WARNING:root:THIS MASSGE IS FOR WARNIG
+ERROR:root:this is for Error msg
+CRITICAL:root:this massge is for critical
+INFO:root:this is my info loging
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical
+INFO:root:This is my info log
+ERROR:root:This is my error message
+CRITICAL:root:This is my critical message
+INFO:root:we are iterating through our list and our local var is [1, 2, 3, 4, 5, [5, 6, 7, 4], 'Mohan', 'Kumar'] 
+INFO:root:we are iterating through our list and our local var is [1, 2, 3, 4, 5, [5, 6, 7, 4], 'Mohan', 'Kumar'] 
+INFO:root:we are iterating through our list and our local var is [1, 2, 3, 4, 5, [5, 6, 7, 4], 'Mohan', 'Kumar'] 
+INFO:root:we are iterating through our list and our local var is [1, 2, 3, 4, 5, [5, 6, 7, 4], 'Mohan', 'Kumar'] 
+INFO:root:we are iterating through our list and our local var is [1, 2, 3, 4, 5, [5, 6, 7, 4], 'Mohan', 'Kumar'] 
+INFO:root:we are iterating through our list and our local var is [1, 2, 3, 4, 5, [5, 6, 7, 4], 'Mohan', 'Kumar'] 
+INFO:root:i am inside if statement and i am trying to check list type [5, 6, 7, 4]
+INFO:root:i am in another for loop for list in list element 1
+INFO:root:i am inside if statement 
+INFO:root:i am in another for loop for list in list element 2
+INFO:root:i am inside if statement 
+INFO:root:i am in another for loop for list in list element 3
+INFO:root:i am inside if statement 
+INFO:root:i am in another for loop for list in list element 4
+INFO:root:i am inside if statement 
+INFO:root:i am in another for loop for list in list element 5
+INFO:root:i am inside if statement 
+INFO:root:i am in another for loop for list in list element [5, 6, 7, 4]
+INFO:root:i am in another for loop for list in list element Mohan
+INFO:root:i am in another for loop for list in list element Kumar
+INFO:root:we are iterating through our list and our local var is [1, 2, 3, 4, 5, [5, 6, 7, 4], 'Mohan', 'Kumar'] 
+INFO:root:we are iterating through our list and our local var is [1, 2, 3, 4, 5, [5, 6, 7, 4], 'Mohan', 'Kumar'] 
+INFO:root:My final result for Integer is [1, 2, 3, 4, 5, 1, 2, 3, 4, 5] and String is ['Mohan', 'Kumar']

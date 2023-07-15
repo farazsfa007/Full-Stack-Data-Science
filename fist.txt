@@ -1,1 +1,2 @@
-this is the new text qwerty is the best keypad what the hell
+Hello, world!
+This is a sample file.
